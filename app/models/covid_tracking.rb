@@ -1,0 +1,2 @@
+class CovidTracking < ApplicationRecord
+end

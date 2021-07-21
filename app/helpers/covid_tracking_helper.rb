@@ -1,0 +1,2 @@
+module CovidTrackingHelper
+end
